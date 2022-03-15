@@ -1,5 +1,5 @@
 ## Inspiration
-Social media is a blessing if we want to reach a larger audience but for people belonging to marginalised and oppressed part of society, it can be a frightening experience. Hate speech and humiliating someone on platforms is quite prevalent these days. We have made this application to detect your tone of text before you post it on social media so that it does not affect any person in a wrong way.
+Social media is a blessing if we want to reach a larger audience but for some people, it can be a frightening experience. Hate speech and humiliating someone on platforms is quite prevalent these days. We have made this application to detect your tone of text before you post it on social media so that it does not affect any person in a wrong way.
 
 ## What it does
 <a href="http://text-tone-detect.herokuapp.com/">__Text Tone Detector__</a> is a machine learning based application that detects the tone of the message as positive or negative to prevent hate speech. 
